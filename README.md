@@ -1,5 +1,5 @@
 # Steganography
-Decrypt and encript scripts for Kasperskiy Lab quest
+Decrypt and encript scripts for Kaspersky Lab quest
 
 # Usage
 Encryption:
