@@ -25,7 +25,7 @@ for i in range(width):
 		ind+=1
 		if(ind>len(buff)):
 			image.save("encrypted-"+sys.argv[1])
-			print("Записано")
+			print("Wrote")
 			sys.exit(0)
 		elif(ind==len(buff)):
 			if(R%2==G%2):
